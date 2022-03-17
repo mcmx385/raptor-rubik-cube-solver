@@ -1,9 +1,11 @@
 # raptor-rubik-cube-solver
 
 ## Setup
+```
 install raptor
-open rap file
-press start
+open .rap
+press start (>)
+```
 
 ## Introduction
 Guide to solve a rubik cube by walking through each layers
